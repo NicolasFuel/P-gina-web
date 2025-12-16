@@ -111,3 +111,19 @@ body {
     transform: rotateX(0deg) scale(1) translateY(-10px);
     box-shadow: 0 35px 70px rgba(80, 100, 130, .35),inset 0 -6px 10px rgba(255, 255, 255,0.7);
 }
+
+/* parte div info*/
+
+.div_info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p_info {
+    margin:20px;
+    border: 3px solid lightgray;
+    box-shadow: 0 5px 8px 3px lightcyan;
+    border-radius: 20px;
+    padding: 26px;
+}
