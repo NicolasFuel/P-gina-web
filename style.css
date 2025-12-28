@@ -23,12 +23,6 @@ html {
 
 
 
-.title-1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: red;
-}
 
 .nav {
     background-color: black;
